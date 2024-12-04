@@ -1,3 +1,0 @@
-MODUL 8. LARAVEL REST API PART 1
-
-Pembuatan REST API dan menggunakannya pada aplikasi web (Operasi SELECT).
